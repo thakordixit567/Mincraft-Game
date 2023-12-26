@@ -11,5 +11,5 @@ How to clone this peoject in your machine
 
  ```sh
  cd your peoject name
-git clone link of this peoject
+git clone https://github.com/thakordixit567/Mincraft-Game.git
 ```
